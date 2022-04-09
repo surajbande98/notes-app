@@ -28,7 +28,7 @@
     "express": "^4.17.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "redux": "3.6.0",
     "redux-logger": "^3.0.6",
     "rxjs": "~6.3.3",
